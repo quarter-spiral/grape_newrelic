@@ -1,4 +1,4 @@
-# 0.0.3 WIP
+# 0.0.3
 
 * Fixing a fatal error that let the instrumenter error out
 
