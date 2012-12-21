@@ -30,6 +30,11 @@ module GrapeNewrelic
       end
     end
 
+    def response
+      return if @app_response.nil?
+      super
+    end
+
     def env
       @env
     end
